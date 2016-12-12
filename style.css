@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://nyvelocity.com/wp-content/uploads/2015/03/NYC-Skyline-e1427399886464.jpg");
       background-size: cover;
       color: white;
     }
@@ -9,6 +9,7 @@
     }
     h1 {
       font-size: 70px;
+     font-family: 'Handlee', cursive;
     }
     img {
       margin: 40px 0px 0px 0px;
